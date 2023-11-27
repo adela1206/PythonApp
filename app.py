@@ -33,5 +33,6 @@ def app():
     st.write(dist_plot(data, x=interesting_column, color=color))
 
 
+
 if __name__ == "__main__":
     app()
